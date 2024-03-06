@@ -1,0 +1,44 @@
+[
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "title": "workshops and webinars",
+        "image_url": "https://i.ibb.co/bJpsNvH/img4.jpg",
+        "details": "Workshops serve as a teaching platform with a primary focus on education, while webinars are typically crafted to simultaneously educate and promote sales. Typically, webinars are free and workshops are paid events. Webinars are for wider, larger audiences. Workshops are more intimate affairs.",
+        "price": 150
+    },
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "title": " Career Fairs",
+        "image_url": "https://i.ibb.co/qBNrhZn/img1.jpg",
+        "details": "A career fair, also called job fair or recruitment fair, is a recruiting event (either virtual or in-person) during which employers and recruiters meet with job seekers in order to discuss job opportunities.",
+        "price": 100
+    },
+    {
+        "id": "f69a695f037cd9484cecaea37ca71011",
+        "title": "Educational Conferences",
+        "image_url": "https://i.ibb.co/1qmxy41/img2.jpg",
+        "details": "Educational conference is an event that brings together individuals from various educational fields to discuss, learn, and share information on a wide range of education-related topics.",
+        "price": 130
+    },
+    {
+        "id": "f69a695f037cd9484cecaea37ca71012",
+        "title": "Training Programs",
+        "image_url": "https://i.ibb.co/H4z82Sz/img3.jpg",
+        "details": "A training program is a planned sequence and combination of activities designed to equip employees with knowledge and skills to become better professionals. Each training program is aimed at achieving specific business goals.",
+        "price": 180
+    },
+    {
+        "id": "11468ed61aee84de492a8b04158a22f9",
+        "title": "Skill Development and Lifelong Learning",
+        "image_url": "https://i.ibb.co/tX9JLzK/Untitled-design.jpg",
+        "details": "There has been a growing emphasis on the importance of continuous skill development to meet the demands of the evolving job market. Lifelong learning initiatives and platforms have gained prominence.",
+        "price": 200
+    },
+    {
+        "id": "11468ed61aee84de492a8b04158a22f0",
+        "title": "EdTech Innovation",
+        "image_url": "https://i.ibb.co/yY1g2z3/Untitled-design-1.jpg",
+        "details": "The education technology (EdTech) sector has seen rapid growth, with new tools and platforms emerging to enhance learning experiences. Adaptive learning, virtual reality, artificial intelligence, and gamification are among the innovative technologies transforming education.",
+        "price": 220
+    }
+]
